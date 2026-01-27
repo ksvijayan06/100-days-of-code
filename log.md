@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
-Mainly focus on the servicenow development - commiting 2hr/day at any cost
+Focus on the servicenow development
 
-### Day 1: January 21, 2025(Wednesday)
+### Day 1: January 27, 2025(Tuesday)
 
 **Today's Progress**: 
 
